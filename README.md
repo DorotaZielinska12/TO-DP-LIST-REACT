@@ -5,20 +5,22 @@
 
 ![GIF](https://media4.giphy.com/media/U4GWjfhwYBpOtT8Vh2/giphy.gif?cid=ecf05e47whtqpx6xyibi3yy1asceqdrxbc1kaa9ab4nkoabp&rid=giphy.gif&ct=g)
 
- 
+![photo](images/photo.png)
+
 # Description
 
 To do list is the project made within the course YouCode Frontend Developer. This application allows user to add, mark tasks as done and remove them.
 
 Tools used in this project
 - HTML
+- Java Script 
+- ES6+
 - CSS
 - BEM
 - Grid
 - React
 - Babel
 - Webpack
-
 
 
 Getting Started with Create React App
