@@ -22,7 +22,7 @@ Tools used in this project
 - Babel
 - Webpack
 
-
+npm
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
