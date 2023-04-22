@@ -2,10 +2,10 @@ import styled from "styled-components";
 
 export const Wrapper = styled.section`
     margin: 10px;
-    background: white;
-    box-shadow: 0 0 5px #ddd;
+    background: ${({ theme }) => theme.color.white};
+    box-shadow: 0 0 5px ${({ theme }) => theme.color.alto};
 
-    @media(max-width: 767px) {
+    @media(max-width: ${({ theme }) => theme.breakpoint.mobile}px) {
         grid-template-columns: 1fr;
     }
 `;
@@ -13,7 +13,7 @@ export const Wrapper = styled.section`
 export const Header = styled.header`
     padding: 20px;
     margin: 0 auto;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid ${({ theme }) => theme.color.alto};
     display: grid;
     grid-template-columns: auto auto;
     grid-gap: 20px;
