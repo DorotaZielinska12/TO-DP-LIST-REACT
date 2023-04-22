@@ -6,6 +6,7 @@ export const theme = {
         crimson: "#DE1712",
         white: "#fff",
         alto: "#ddd",
+        gallery: "#eee",
     },
     breakpoint: {
         mobile: 767,
