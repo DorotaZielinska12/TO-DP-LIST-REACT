@@ -7,22 +7,22 @@ export const Div = styled.div`
 
 export const Button = styled.button`
     background: transparent;
-    color: teal;
+    color: ${({ theme }) => theme.color.teal};
     border: none;
     margin: 0 0 0 20px;
     transition: color 0.5s;
     border-bottom: 1px solid transparent;
 
-    @media(max-width: 767px) {
+    @media(max-width: ${({ theme }) => theme.breakpoint.mobile}px) {
         flex-basis: 100%;
         margin: 10px;
     }
 
     &:hover {
-        color: hsl(180, 100%, 35%);
+        filter: brightness(110%);
     }
 
     &:active {
-        color: #ccc;
+       filter: brightness(120%);
     }
 `;
