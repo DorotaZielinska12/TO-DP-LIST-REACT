@@ -24,6 +24,8 @@ Tools used in this project
 - React
 - Babel
 - Webpack
+- Custom Hook
+- Styled Components
 
 npm
 Getting Started with Create React App
