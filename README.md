@@ -5,11 +5,6 @@ https://dorotazielinska12.github.io/TO-DP-LIST-REACT/
 
 ![GIF](https://media4.giphy.com/media/U4GWjfhwYBpOtT8Vh2/giphy.gif?cid=ecf05e47whtqpx6xyibi3yy1asceqdrxbc1kaa9ab4nkoabp&rid=giphy.gif&ct=g)
 
-<<<<<<< HEAD
-![photo](images/photo.png)
-
-=======
->>>>>>> 4e419d3c70bcd954cbaa6878a93844fe6c58d7bf
 # Description
 
 To do list is the project made within the course YouCode Frontend Developer. This application allows user to add, mark tasks as done and remove them.
