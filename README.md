@@ -21,6 +21,7 @@ Tools used in this project
 - Webpack
 - Custom Hook
 - Styled Components
+- Redux
 
 npm
 Getting Started with Create React App
