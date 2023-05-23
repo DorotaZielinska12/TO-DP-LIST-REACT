@@ -18,7 +18,7 @@ const Buttons = () => {
                     </Button>
                     <Button
                         onClick={() => dispatch(setAllDone())}
-                        disabled={selectIsEveryTaskDone}
+                        disabled={isEveryTaskDone}
                     >
                         Ukoncz wszystkie
                     </Button>

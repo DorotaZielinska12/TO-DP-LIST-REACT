@@ -2,16 +2,16 @@ import { createSlice } from '@reduxjs/toolkit';
 
 const tasksSlice = createSlice({
     name: 'tasks',
-    initianlState: {
+    initialState: {
         tasks: [],
         hideDone: false,
     },
-    reducer: {
+    reducers: {
         addTask: ({ tasks }, { payload: task }) => {
             tasks.push(task);
         },
         toggleHideDone: state => {
-            state.hideDone = !state.hideDone
+            state.hideDone = !state.hideDone;
         },
         toggleTaskDone: ({ tasks }, { payload: taskId }) => {
             const index = tasks.findIndex(({ id }) => id === taskId);
