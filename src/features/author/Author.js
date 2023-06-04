@@ -17,7 +17,7 @@ export default () => (
                         Niesty malzensto nie przetrwalo proby czasu wiec obecnie sama wychowuje syna.
                         Nie koncze jednak drogi ku samodoskonaleniu dlatego tez zaczelam kurs programowania z YouCode.
                         W wolnej chwili chodze na silownie i spa bo to moj czas dla siebie 😜
-                        Uwielbiam tez sluchac muzyke, spacerowac czy podrozowac po Swiecie a mam juz na koncie kilka ciekawych zakatkow 😉
+                        Uwielbiam tez sluchac muzyki, spacerowac, plywac czy podrozowac po Swiecie a mam juz na koncie kilka ciekawych zakatkow 😉
 
                     </p>
                 </>
