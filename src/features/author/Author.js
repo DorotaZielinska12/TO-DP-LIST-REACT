@@ -4,21 +4,21 @@ import Section from "../../common/Section"
 
 export default () => (
     <Container>
-        <Header title="O autorze" />
+        <Header title="Author" />
         <Section
             title="Dorota Zielinska"
             body={
                 <>
                     <p>
-                        Urodzilam sie w Polsce gdzie tez podjelam i ukonczylam edukacje.
-                        W wieku 21 postanowilam wyjechac do UK gdzie podjelam prace w swoim zawodzie jako krawcowa.
-                        Zaczelam tez nauke wieczorowa w pobliskim Colleague aby podciagnac sie z Angielskiego, tam tez poznalam Artura.
-                        Po jakims czasie wzielismy slub i urodzil nam sie syn Dominik.
-                        Niesty malzensto nie przetrwalo proby czasu wiec obecnie sama wychowuje syna.
-                        Nie koncze jednak drogi ku samodoskonaleniu dlatego tez zaczelam kurs programowania z YouCode.
-                        W wolnej chwili chodze na silownie i spa.
-                        Uwielbiam tez sluchac muzyki, spacerowac, plywac czy podrozowac po Swiecie a mam juz na koncie kilka ciekawych zakatkow 😉
-
+                        I was born in Poland, where I also undertook and completed my education.
+                        At the age of 21, I decided to go and live in the UK where I started work in my profession as a seamstress.
+                        I also started evening studies at the nearby Colleague to improve my English, and I met Artur there.
+                        After some time we got married and our son Dominik was born.
+                        Unfortunate marriage did not survive the test of time.
+                        However, I am not finishing my way to self-improvement, which is why I started a programming course with YouCode.
+                        I think this course is a great idea, I feel very good in coding and programming
+                        In my free time I go to the gym and spa.
+                        I also love listening to music, dance, walking, swimming or traveling around the world and I already have some interesting corners 😉
                     </p>
                 </>
             }

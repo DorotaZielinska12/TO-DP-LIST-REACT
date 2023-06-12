@@ -6,10 +6,10 @@ export default () => {
         <nav>
             <List>
                 <Item>
-                    <StyledNavLink to={toTasks}>Zadania</StyledNavLink>
+                    <StyledNavLink to={toTasks}>Tasks</StyledNavLink>
                 </Item>
                 <Item>
-                    <StyledNavLink to={toAuthor}>Autor</StyledNavLink>
+                    <StyledNavLink to={toAuthor}>Author</StyledNavLink>
                 </Item>
             </List>
         </nav>
