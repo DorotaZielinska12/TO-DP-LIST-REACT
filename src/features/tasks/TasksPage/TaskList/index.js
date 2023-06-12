@@ -1,5 +1,4 @@
 import { useSelector, useDispatch } from "react-redux";
-import { Link } from "react-router-dom";
 import { List, Item, Content, Button, StyledLink } from "./styled";
 import { toggleTaskDone, removeTask, selectHideDone, selectTasksByQuery, } from "../../tasksSlice"
 import { toTask } from "../../../../routes";
