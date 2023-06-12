@@ -21,7 +21,10 @@ Tools used in this project
 - Webpack
 - Custom Hook
 - Styled Components
-- Redux
+- Redux, Redux-Saga
+- React Router
+- Local storege
+- Errors
 
 npm
 Getting Started with Create React App
